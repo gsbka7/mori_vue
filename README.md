@@ -1,4 +1,4 @@
-# 【 森 -mori- 】
+# 【 靜態網站切版設計 + 購物車功能 】
 
 <img width="800" height="500" src="https://github.com/gsbka7/mori_vue/blob/main/img-readme/mori_vue_.png"/>
 
